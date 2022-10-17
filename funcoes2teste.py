@@ -1,0 +1,1 @@
+help() #mostra as funcionalidades de cada comando
